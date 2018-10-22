@@ -6,7 +6,9 @@ This Repo is only for Ping releases
 Telegram group= 
 
 PING Hybrid PoW/PoS Masternodes With darksend
-´´´
+```
+
+
 block time= 30 seconds
 min stake age= 8 hour 
 #define BLOCK_START_MASTERNODE_PAYMENTS_TESTNET 3700 // Testnet Masternode payments enabled block 81k5
@@ -42,5 +44,4 @@ static const int64_t MAINNET_POSFIX = 200001; //Mainnet Proof of Stake update no
 		nSubsidy = 0; // PoW Ends ~ 4,500,000 Total PNG Mined via PoW
 }
 
-
-   ´´´               
+```
